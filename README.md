@@ -12,10 +12,8 @@ This web application calculates the duration of a playlist link using [Streamlit
 ```
 
 ### Screenshot of the web appplication
-![Youtube_playlist duration calculator]
-(
-https://github.com/Anushka118/Youtube_Playlist_Duration/blob/main/sample_screenshot.png
-)
+![Youtube playlist duration calculator](
+https://github.com/Anushka118/Youtube_Playlist_Duration/blob/main/sample_screenshot.png)
 
 #### Note:
 You need to create a Youtube API key for the project.
