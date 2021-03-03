@@ -8,7 +8,7 @@ text_to_search = st.text_input('Enter the playlist link: ')
 match = text_to_search.split('=')[-1]
 
 if st.button('Calculate Duration'):
-    api_key = 'AIzaSyBorbTI5smVoke8AqmWaiS72lAW6-gl8Vc'
+    api_key = '' #enter your generated API key 
 
     youtube = build('youtube','v3',developerKey = api_key)
 
